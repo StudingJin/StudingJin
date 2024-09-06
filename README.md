@@ -5,9 +5,7 @@
 </summary>
 <img src="https://img.shields.io/badge/Instagram-hexcode색상?style=plastic&logo=로고이름&logoColor=로고색상"/>
 <span>
-  <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Pyhon-#3776AB?style=for-the-badge&logo=파이썬&logoColor=white">
 </span>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
