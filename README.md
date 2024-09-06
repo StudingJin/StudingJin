@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<div style="background: linear-gradient(90deg, #FF5733 0%, #FFBD33 25%, #33FF57 50%, #3380FF 75%, #DA33FF 100%); height: 150px; display: flex; justify-content: center; align-items: center; color: white; font-size: 60px; font-weight: bold; text-align: center;">
-  Pleased to meet you.
-</div>
+
+<!-- 의존 라이브러리와 별개로 로드 -->
+<script src="https://unpkg.com/hangul-js"></script>
+<script src="https://unpkg.com/type-hangul@latest/dist/type-hangul.min.js"></script>
 
 <div id="target">안녕하세요.</div>
 <script>
