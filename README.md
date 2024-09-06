@@ -4,7 +4,10 @@
   Pleased to meet you.
 </div>
 
-
+<div id="target">안녕하세요.</div>
+<script>
+    TypeHangul.type('#target');
+</script>
 
 <details>
 <summary>About Me
