@@ -16,7 +16,7 @@
     <h3 align="center">📚 Tools 📚</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">&nbsp
-      <img src="https://img.shields.io/badge/visualstudiocode-E34F26?style=for-the-badge&logo=visualstudiocode&logoColor=white">&nbsp
+      <img src="https://img.shields.io/badge/visual_studio_code-E34F26?style=for-the-badge&logo=visual_studio_code&logoColor=white">&nbsp
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">&nbsp
     </p>
     <a>
